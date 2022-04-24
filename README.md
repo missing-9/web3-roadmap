@@ -5,6 +5,8 @@
 
 🤩 有意向一起学习的可以联系微信：bigearone，备注:github-web3
 
+![pic](https://user-images.githubusercontent.com/29998376/164956376-d0aecb6d-214b-4af2-99ef-6857a14aa0ad.png)
+
 ## 1⃣️ 学习区块链基础
 作为web3的开发者，需要先了解区块链是怎样交易、付款的。区块链不仅仅关于加密货币，了解它的去中心化概念、分布式存储，理解它是怎样支持DApp的。
 
